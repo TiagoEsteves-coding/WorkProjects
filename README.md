@@ -1,2 +1,2 @@
-# Academic-Projects
-Individual &amp; Group Academic Projects completed at University
+# Work Projects
+Individual, Group Academic &amp; Personal Projects.
